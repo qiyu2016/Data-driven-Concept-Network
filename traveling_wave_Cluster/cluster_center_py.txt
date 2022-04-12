@@ -1,0 +1,64 @@
+01transmission.txt
+Computing Rho with gaussian kernel of radius:   0.042746814917568675
+Number of Clusters:   3
+Cluster_1: 501location:[0.54987409 0.66666667]
+Cluster_2: 530location:[0.54240011 0.625     ]
+Cluster_3: 555location:[0.53484398 0.26666667]
+02line.txt
+Computing Rho with gaussian kernel of radius:   0.03987916421585042
+Number of Clusters:   3
+Cluster_1: 541location:[0.53455507 0.71428571]
+Cluster_2: 597location:[0.51941165 0.58823529]
+Cluster_3: 634location:[0.50942748 0.4       ]
+03location.txt
+Computing Rho with gaussian kernel of radius:   0.040557476284074676
+Number of Clusters:   3
+Cluster_1: 425location:[0.63760105 0.44444444]
+Cluster_2: 535location:[0.60728534 0.55555556]
+Cluster_3: 599location:[0.59155336 0.30769231]
+04measurement.txt
+Computing Rho with gaussian kernel of radius:   0.03528101803637173
+Number of Clusters:   3
+Cluster_1: 311location:[0.79469179 0.66666667]
+Cluster_2: 459location:[0.75836224 0.14285714]
+Cluster_3: 569location:[0.73538498 0.26666667]
+05sensor.txt
+Computing Rho with gaussian kernel of radius:   0.03661915199999999
+Number of Clusters:   3
+Cluster_1: 400location:[0.58280955 0.42857143]
+Cluster_2: 450location:[0.56699503 0.77777778]
+Cluster_3: 683location:[0.491314   0.13333333]
+06wave.txt
+Computing Rho with gaussian kernel of radius:   0.031124988214139736
+Number of Clusters:   3
+Cluster_1: 338location:[0.76419505 0.28571429]
+Cluster_2: 363location:[0.7611686  0.42105263]
+Cluster_3: 378location:[0.75904747 0.58823529]
+06wave.txt
+Computing Rho with gaussian kernel of radius:   0.031124988214139736
+Number of Clusters:   3
+Cluster_1: 338   location:[0.76419505 0.28571429]
+Cluster_2: 363   location:[0.7611686  0.42105263]
+Cluster_3: 378   location:[0.75904747 0.58823529]
+
+06wave.txt
+Computing Rho with gaussian kernel of radius:   0.031124988214139736
+Number of Clusters:   3
+Cluster_1: 338   location:[0.76419505 0.28571429]
+Cluster_2: 363   location:[0.7611686  0.42105263]
+Cluster_3: 378   location:[0.75904747 0.58823529]
+
+02line.txt
+Computing Rho with gaussian kernel of radius:   0.03987916421585042
+Number of Clusters:   3
+Cluster_1: 541   location:[0.53455507 0.71428571]
+Cluster_2: 597   location:[0.51941165 0.58823529]
+Cluster_3: 634   location:[0.50942748 0.4       ]
+
+02line.txt
+Computing Rho with gaussian kernel of radius:   0.03987916421585042
+Number of Clusters:   3
+Cluster_1: 541   location:[0.53455507 0.71428571]
+Cluster_2: 597   location:[0.51941165 0.58823529]
+Cluster_3: 634   location:[0.50942748 0.4       ]
+
