@@ -1,0 +1,436 @@
+keywords:
+transmission, line, fault, location, traveling, wave, sensor, transient, voltage, optic, measurement, 
+
+keylist:
+transmission, line, fault, location, traveling, wave, sensor, transient, voltage, optic, measurement, 
+
+
+transmission-line  <path length min>   2
+Synset('transmission.n.02')
+Synset('channel.n.05')
+Synset('communication.n.01')
+
+transmission-fault  <path length min>   4
+Synset('transmission.n.02')
+Synset('mistake.n.01')
+Synset('act.n.02')
+
+transmission-location  <path length min>   4
+Synset('transmission.n.02')
+Synset('placement.n.03')
+Synset('act.n.02')
+
+transmission-traveling  <path length min>   6
+Synset('transmission.n.02')
+Synset('travel.n.01')
+Synset('act.n.02')
+
+transmission-wave  <path length min>   4
+Synset('infection.n.04')
+Synset('wave.n.01')
+Synset('happening.n.01')
+
+transmission-wave  <path length min>   4
+Synset('infection.n.04')
+Synset('wave.n.03')
+Synset('happening.n.01')
+
+transmission-sensor  <path length min>   4
+Synset('transmission.n.05')
+Synset('detector.n.01')
+Synset('device.n.01')
+
+transmission-transient  <path length min>   6
+Synset('infection.n.04')
+Synset('transient.n.02')
+Synset('happening.n.01')
+
+transmission-voltage  <path length min>   13
+Synset('transmission.n.02')
+Synset('voltage.n.01')
+Synset('entity.n.01')
+
+transmission-voltage  <path length min>   13
+Synset('transmission.n.02')
+Synset('electric_potential.n.01')
+Synset('entity.n.01')
+
+transmission-voltage  <path length min>   13
+Synset('infection.n.04')
+Synset('voltage.n.01')
+Synset('entity.n.01')
+
+transmission-voltage  <path length min>   13
+Synset('infection.n.04')
+Synset('electric_potential.n.01')
+Synset('entity.n.01')
+
+transmission-optic  <path length min>   13
+Synset('transmission.n.02')
+Synset('eye.n.01')
+Synset('entity.n.01')
+
+transmission-optic  <path length min>   13
+Synset('infection.n.04')
+Synset('eye.n.01')
+Synset('entity.n.01')
+
+transmission-measurement  <path length min>   4
+Synset('transmission.n.02')
+Synset('measurement.n.01')
+Synset('act.n.02')
+
+line-fault  <path length min>   4
+Synset('occupation.n.01')
+Synset('mistake.n.01')
+Synset('act.n.02')
+
+line-fault  <path length min>   4
+Synset('channel.n.05')
+Synset('mistake.n.01')
+Synset('act.n.02')
+
+line-location  <path length min>   1
+Synset('line.n.11')
+Synset('location.n.01')
+Synset('location.n.01')
+
+line-traveling  <path length min>   6
+Synset('occupation.n.01')
+Synset('travel.n.01')
+Synset('act.n.02')
+
+line-traveling  <path length min>   6
+Synset('channel.n.05')
+Synset('travel.n.01')
+Synset('act.n.02')
+
+line-wave  <path length min>   2
+Synset('line.n.04')
+Synset('wave.n.07')
+Synset('line.n.04')
+
+line-sensor  <path length min>   3
+Synset('cable.n.02')
+Synset('detector.n.01')
+Synset('device.n.01')
+
+line-transient  <path length min>   7
+Synset('line.n.11')
+Synset('transient.n.01')
+Synset('object.n.01')
+
+line-transient  <path length min>   7
+Synset('line.n.18')
+Synset('transient.n.01')
+Synset('whole.n.02')
+
+line-voltage  <path length min>   6
+Synset('line.n.06')
+Synset('voltage.n.01')
+Synset('physical_phenomenon.n.01')
+
+line-voltage  <path length min>   6
+Synset('line.n.06')
+Synset('electric_potential.n.01')
+Synset('physical_phenomenon.n.01')
+
+line-optic  <path length min>   9
+Synset('line.n.11')
+Synset('eye.n.01')
+Synset('physical_entity.n.01')
+
+line-measurement  <path length min>   2
+Synset('occupation.n.01')
+Synset('measurement.n.01')
+Synset('activity.n.01')
+
+fault-location  <path length min>   4
+Synset('mistake.n.01')
+Synset('placement.n.03')
+Synset('act.n.02')
+
+fault-location  <path length min>   4
+Synset('fault.n.04')
+Synset('location.n.01')
+Synset('location.n.01')
+
+fault-traveling  <path length min>   6
+Synset('mistake.n.01')
+Synset('travel.n.01')
+Synset('act.n.02')
+
+fault-traveling  <path length min>   6
+Synset('fault.n.07')
+Synset('travel.n.01')
+Synset('motion.n.06')
+
+fault-wave  <path length min>   5
+Synset('fault.n.05')
+Synset('wave.n.01')
+Synset('happening.n.01')
+
+fault-wave  <path length min>   5
+Synset('fault.n.05')
+Synset('wave.n.03')
+Synset('happening.n.01')
+
+fault-sensor  <path length min>   10
+Synset('fault.n.04')
+Synset('detector.n.01')
+Synset('object.n.01')
+
+fault-transient  <path length min>   7
+Synset('fault.n.05')
+Synset('transient.n.02')
+Synset('happening.n.01')
+
+fault-voltage  <path length min>   12
+Synset('defect.n.03')
+Synset('voltage.n.01')
+Synset('entity.n.01')
+
+fault-voltage  <path length min>   12
+Synset('defect.n.03')
+Synset('electric_potential.n.01')
+Synset('entity.n.01')
+
+fault-voltage  <path length min>   12
+Synset('demerit.n.02')
+Synset('voltage.n.01')
+Synset('entity.n.01')
+
+fault-voltage  <path length min>   12
+Synset('demerit.n.02')
+Synset('electric_potential.n.01')
+Synset('entity.n.01')
+
+fault-voltage  <path length min>   12
+Synset('fault.n.04')
+Synset('voltage.n.01')
+Synset('physical_entity.n.01')
+
+fault-voltage  <path length min>   12
+Synset('fault.n.04')
+Synset('electric_potential.n.01')
+Synset('physical_entity.n.01')
+
+fault-optic  <path length min>   12
+Synset('defect.n.03')
+Synset('eye.n.01')
+Synset('entity.n.01')
+
+fault-optic  <path length min>   12
+Synset('demerit.n.02')
+Synset('eye.n.01')
+Synset('entity.n.01')
+
+fault-optic  <path length min>   12
+Synset('fault.n.04')
+Synset('eye.n.01')
+Synset('physical_entity.n.01')
+
+fault-measurement  <path length min>   4
+Synset('mistake.n.01')
+Synset('measurement.n.01')
+Synset('act.n.02')
+
+location-traveling  <path length min>   6
+Synset('placement.n.03')
+Synset('travel.n.01')
+Synset('act.n.02')
+
+location-wave  <path length min>   6
+Synset('placement.n.03')
+Synset('wave.n.01')
+Synset('event.n.01')
+
+location-wave  <path length min>   6
+Synset('placement.n.03')
+Synset('wave.n.02')
+Synset('act.n.02')
+
+location-wave  <path length min>   6
+Synset('placement.n.03')
+Synset('wave.n.03')
+Synset('event.n.01')
+
+location-sensor  <path length min>   6
+Synset('location.n.01')
+Synset('detector.n.01')
+Synset('object.n.01')
+
+location-transient  <path length min>   6
+Synset('location.n.01')
+Synset('transient.n.01')
+Synset('object.n.01')
+
+location-voltage  <path length min>   8
+Synset('location.n.01')
+Synset('voltage.n.01')
+Synset('physical_entity.n.01')
+
+location-voltage  <path length min>   8
+Synset('location.n.01')
+Synset('electric_potential.n.01')
+Synset('physical_entity.n.01')
+
+location-optic  <path length min>   8
+Synset('location.n.01')
+Synset('eye.n.01')
+Synset('physical_entity.n.01')
+
+location-measurement  <path length min>   2
+Synset('placement.n.03')
+Synset('measurement.n.01')
+Synset('activity.n.01')
+
+traveling-wave  <path length min>   4
+Synset('travel.n.01')
+Synset('wave.n.02')
+Synset('change.n.03')
+
+traveling-sensor  <path length min>   15
+Synset('travel.n.01')
+Synset('detector.n.01')
+Synset('entity.n.01')
+
+traveling-transient  <path length min>   10
+Synset('travel.n.01')
+Synset('transient.n.02')
+Synset('event.n.01')
+
+traveling-voltage  <path length min>   15
+Synset('travel.n.01')
+Synset('voltage.n.01')
+Synset('entity.n.01')
+
+traveling-voltage  <path length min>   15
+Synset('travel.n.01')
+Synset('electric_potential.n.01')
+Synset('entity.n.01')
+
+traveling-optic  <path length min>   15
+Synset('travel.n.01')
+Synset('eye.n.01')
+Synset('entity.n.01')
+
+traveling-measurement  <path length min>   6
+Synset('travel.n.01')
+Synset('measurement.n.01')
+Synset('act.n.02')
+
+wave-sensor  <path length min>   10
+Synset('wave.n.06')
+Synset('detector.n.01')
+Synset('whole.n.02')
+
+wave-sensor  <path length min>   10
+Synset('wave.n.09')
+Synset('detector.n.01')
+Synset('whole.n.02')
+
+wave-transient  <path length min>   2
+Synset('wave.n.03')
+Synset('transient.n.02')
+Synset('wave.n.03')
+
+wave-voltage  <path length min>   5
+Synset('wave.n.08')
+Synset('voltage.n.01')
+Synset('physical_phenomenon.n.01')
+
+wave-voltage  <path length min>   5
+Synset('wave.n.08')
+Synset('electric_potential.n.01')
+Synset('physical_phenomenon.n.01')
+
+wave-optic  <path length min>   11
+Synset('wave.n.09')
+Synset('eye.n.01')
+Synset('physical_entity.n.01')
+
+wave-measurement  <path length min>   6
+Synset('wave.n.01')
+Synset('measurement.n.01')
+Synset('event.n.01')
+
+wave-measurement  <path length min>   6
+Synset('wave.n.02')
+Synset('measurement.n.01')
+Synset('act.n.02')
+
+wave-measurement  <path length min>   6
+Synset('wave.n.03')
+Synset('measurement.n.01')
+Synset('event.n.01')
+
+sensor-transient  <path length min>   9
+Synset('detector.n.01')
+Synset('transient.n.01')
+Synset('whole.n.02')
+
+sensor-voltage  <path length min>   12
+Synset('detector.n.01')
+Synset('voltage.n.01')
+Synset('physical_entity.n.01')
+
+sensor-voltage  <path length min>   12
+Synset('detector.n.01')
+Synset('electric_potential.n.01')
+Synset('physical_entity.n.01')
+
+sensor-optic  <path length min>   12
+Synset('detector.n.01')
+Synset('eye.n.01')
+Synset('physical_entity.n.01')
+
+sensor-measurement  <path length min>   13
+Synset('detector.n.01')
+Synset('measurement.n.01')
+Synset('entity.n.01')
+
+transient-voltage  <path length min>   10
+Synset('transient.n.01')
+Synset('voltage.n.01')
+Synset('physical_entity.n.01')
+
+transient-voltage  <path length min>   10
+Synset('transient.n.01')
+Synset('electric_potential.n.01')
+Synset('physical_entity.n.01')
+
+transient-optic  <path length min>   10
+Synset('transient.n.01')
+Synset('eye.n.01')
+Synset('physical_entity.n.01')
+
+transient-measurement  <path length min>   8
+Synset('transient.n.02')
+Synset('measurement.n.01')
+Synset('event.n.01')
+
+voltage-optic  <path length min>   12
+Synset('voltage.n.01')
+Synset('eye.n.01')
+Synset('physical_entity.n.01')
+
+voltage-optic  <path length min>   12
+Synset('electric_potential.n.01')
+Synset('eye.n.01')
+Synset('physical_entity.n.01')
+
+voltage-measurement  <path length min>   13
+Synset('voltage.n.01')
+Synset('measurement.n.01')
+Synset('entity.n.01')
+
+voltage-measurement  <path length min>   13
+Synset('electric_potential.n.01')
+Synset('measurement.n.01')
+Synset('entity.n.01')
+
+optic-measurement  <path length min>   13
+Synset('eye.n.01')
+Synset('measurement.n.01')
+Synset('entity.n.01')

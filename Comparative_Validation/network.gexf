@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>30/05/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="opening.n.01" label="opening.n.01" />
+      <node id="line.n.11" label="line.n.11" />
+      <node id="travel.n.01" label="travel.n.01" />
+      <node id="abstraction.n.06" label="abstraction.n.06" />
+      <node id="physical_phenomenon.n.01" label="physical_phenomenon.n.01" />
+      <node id="thing.n.12" label="thing.n.12" />
+      <node id="transient.n.02" label="transient.n.02" />
+      <node id="placement.n.03" label="placement.n.03" />
+      <node id="happening.n.01" label="happening.n.01" />
+      <node id="crack.n.01" label="crack.n.01" />
+      <node id="phenomenon.n.01" label="phenomenon.n.01" />
+      <node id="body_part.n.01" label="body_part.n.01" />
+      <node id="wave.n.09" label="wave.n.09" />
+      <node id="location.n.01" label="location.n.01" />
+      <node id="wave.n.07" label="wave.n.07" />
+      <node id="nonaccomplishment.n.01" label="nonaccomplishment.n.01" />
+      <node id="traveler.n.01" label="traveler.n.01" />
+      <node id="line.n.06" label="line.n.06" />
+      <node id="failure.n.02" label="failure.n.02" />
+      <node id="motion.n.03" label="motion.n.03" />
+      <node id="wave.n.01" label="wave.n.01" />
+      <node id="eye.n.01" label="eye.n.01" />
+      <node id="weather.n.01" label="weather.n.01" />
+      <node id="imperfection.n.01" label="imperfection.n.01" />
+      <node id="radiation.n.01" label="radiation.n.01" />
+      <node id="movement.n.03" label="movement.n.03" />
+      <node id="wave.n.08" label="wave.n.08" />
+      <node id="activity.n.01" label="activity.n.01" />
+      <node id="energy.n.01" label="energy.n.01" />
+      <node id="transient.n.01" label="transient.n.01" />
+      <node id="conductor.n.04" label="conductor.n.04" />
+      <node id="sense_organ.n.01" label="sense_organ.n.01" />
+      <node id="process.n.06" label="process.n.06" />
+      <node id="whole.n.02" label="whole.n.02" />
+      <node id="object.n.01" label="object.n.01" />
+      <node id="wave.n.06" label="wave.n.06" />
+      <node id="hair.n.01" label="hair.n.01" />
+      <node id="entity.n.01" label="entity.n.01" />
+      <node id="event.n.01" label="event.n.01" />
+      <node id="electrical_phenomenon.n.01" label="electrical_phenomenon.n.01" />
+      <node id="natural_object.n.01" label="natural_object.n.01" />
+      <node id="communication.n.01" label="communication.n.01" />
+      <node id="defect.n.03" label="defect.n.03" />
+      <node id="part.n.03" label="part.n.03" />
+      <node id="breakdown.n.03" label="breakdown.n.03" />
+      <node id="atmospheric_phenomenon.n.01" label="atmospheric_phenomenon.n.01" />
+      <node id="act.n.02" label="act.n.02" />
+      <node id="gear.n.03" label="gear.n.03" />
+      <node id="living_thing.n.01" label="living_thing.n.01" />
+      <node id="detector.n.01" label="detector.n.01" />
+      <node id="person.n.01" label="person.n.01" />
+      <node id="psychological_feature.n.01" label="psychological_feature.n.01" />
+      <node id="incident.n.01" label="incident.n.01" />
+      <node id="body_covering.n.01" label="body_covering.n.01" />
+      <node id="line.n.04" label="line.n.04" />
+      <node id="measurement.n.01" label="measurement.n.01" />
+      <node id="instrumentality.n.03" label="instrumentality.n.03" />
+      <node id="change.n.03" label="change.n.03" />
+      <node id="wave.n.03" label="wave.n.03" />
+      <node id="transmission.n.05" label="transmission.n.05" />
+      <node id="voltage.n.01" label="voltage.n.01" />
+      <node id="adult.n.01" label="adult.n.01" />
+      <node id="transmission.n.02" label="transmission.n.02" />
+      <node id="state.n.02" label="state.n.02" />
+      <node id="fault.n.05" label="fault.n.05" />
+      <node id="curve.n.01" label="curve.n.01" />
+      <node id="occupation.n.01" label="occupation.n.01" />
+      <node id="organism.n.01" label="organism.n.01" />
+      <node id="covering.n.01" label="covering.n.01" />
+      <node id="channel.n.05" label="channel.n.05" />
+      <node id="infection.n.04" label="infection.n.04" />
+      <node id="physical_entity.n.01" label="physical_entity.n.01" />
+      <node id="electromagnetic_radiation.n.01" label="electromagnetic_radiation.n.01" />
+      <node id="artifact.n.01" label="artifact.n.01" />
+      <node id="woman.n.01" label="woman.n.01" />
+      <node id="mistake.n.01" label="mistake.n.01" />
+      <node id="space.n.02" label="space.n.02" />
+      <node id="causal_agent.n.01" label="causal_agent.n.01" />
+      <node id="hairdo.n.01" label="hairdo.n.01" />
+      <node id="wave.n.02" label="wave.n.02" />
+      <node id="attribute.n.02" label="attribute.n.02" />
+      <node id="motion.n.06" label="motion.n.06" />
+      <node id="cable.n.02" label="cable.n.02" />
+      <node id="organ.n.01" label="organ.n.01" />
+      <node id="mechanism.n.05" label="mechanism.n.05" />
+      <node id="fault.n.04" label="fault.n.04" />
+      <node id="natural_phenomenon.n.01" label="natural_phenomenon.n.01" />
+      <node id="oscillation.n.02" label="oscillation.n.02" />
+      <node id="action.n.01" label="action.n.01" />
+      <node id="device.n.01" label="device.n.01" />
+    </nodes>
+    <edges>
+      <edge id="0" source="opening.n.01" target="crack.n.01" weight="1.0" />
+      <edge id="1" source="opening.n.01" target="space.n.02" weight="1.0" />
+      <edge id="2" source="line.n.11" target="location.n.01" weight="1.0" />
+      <edge id="3" source="travel.n.01" target="motion.n.06" weight="1.0" />
+      <edge id="4" source="abstraction.n.06" target="entity.n.01" weight="1.0" />
+      <edge id="5" source="abstraction.n.06" target="attribute.n.02" weight="1.0" />
+      <edge id="6" source="abstraction.n.06" target="psychological_feature.n.01" weight="1.0" />
+      <edge id="7" source="physical_phenomenon.n.01" target="natural_phenomenon.n.01" weight="1.0" />
+      <edge id="8" source="physical_phenomenon.n.01" target="electrical_phenomenon.n.01" weight="1.0" />
+      <edge id="9" source="physical_phenomenon.n.01" target="atmospheric_phenomenon.n.01" weight="1.0" />
+      <edge id="10" source="physical_phenomenon.n.01" target="energy.n.01" weight="1.0" />
+      <edge id="11" source="thing.n.12" target="physical_entity.n.01" weight="1.0" />
+      <edge id="12" source="thing.n.12" target="part.n.03" weight="1.0" />
+      <edge id="13" source="transient.n.02" target="oscillation.n.02" weight="1.0" />
+      <edge id="14" source="placement.n.03" target="activity.n.01" weight="1.0" />
+      <edge id="15" source="happening.n.01" target="failure.n.02" weight="1.0" />
+      <edge id="16" source="happening.n.01" target="event.n.01" weight="1.0" />
+      <edge id="17" source="happening.n.01" target="incident.n.01" weight="1.0" />
+      <edge id="18" source="happening.n.01" target="movement.n.03" weight="1.0" />
+      <edge id="19" source="crack.n.01" target="fault.n.04" weight="1.0" />
+      <edge id="20" source="phenomenon.n.01" target="process.n.06" weight="1.0" />
+      <edge id="21" source="phenomenon.n.01" target="natural_phenomenon.n.01" weight="1.0" />
+      <edge id="22" source="body_part.n.01" target="organ.n.01" weight="1.0" />
+      <edge id="23" source="body_part.n.01" target="part.n.03" weight="1.0" />
+      <edge id="24" source="wave.n.09" target="woman.n.01" weight="1.0" />
+      <edge id="25" source="location.n.01" target="object.n.01" weight="1.0" />
+      <edge id="26" source="location.n.01" target="space.n.02" weight="1.0" />
+      <edge id="27" source="wave.n.07" target="curve.n.01" weight="1.0" />
+      <edge id="28" source="nonaccomplishment.n.01" target="act.n.02" weight="1.0" />
+      <edge id="29" source="nonaccomplishment.n.01" target="mistake.n.01" weight="1.0" />
+      <edge id="30" source="traveler.n.01" target="transient.n.01" weight="1.0" />
+      <edge id="31" source="traveler.n.01" target="person.n.01" weight="1.0" />
+      <edge id="32" source="line.n.06" target="electromagnetic_radiation.n.01" weight="1.0" />
+      <edge id="33" source="failure.n.02" target="breakdown.n.03" weight="1.0" />
+      <edge id="34" source="motion.n.03" target="wave.n.02" weight="1.0" />
+      <edge id="35" source="motion.n.03" target="change.n.03" weight="1.0" />
+      <edge id="36" source="wave.n.01" target="movement.n.03" weight="1.0" />
+      <edge id="37" source="eye.n.01" target="sense_organ.n.01" weight="1.0" />
+      <edge id="38" source="weather.n.01" target="wave.n.08" weight="1.0" />
+      <edge id="39" source="weather.n.01" target="atmospheric_phenomenon.n.01" weight="1.0" />
+      <edge id="40" source="imperfection.n.01" target="defect.n.03" weight="1.0" />
+      <edge id="41" source="imperfection.n.01" target="state.n.02" weight="1.0" />
+      <edge id="42" source="radiation.n.01" target="electromagnetic_radiation.n.01" weight="1.0" />
+      <edge id="43" source="radiation.n.01" target="energy.n.01" weight="1.0" />
+      <edge id="44" source="movement.n.03" target="wave.n.03" weight="1.0" />
+      <edge id="45" source="activity.n.01" target="act.n.02" weight="1.0" />
+      <edge id="46" source="activity.n.01" target="occupation.n.01" weight="1.0" />
+      <edge id="47" source="activity.n.01" target="measurement.n.01" weight="1.0" />
+      <edge id="48" source="conductor.n.04" target="cable.n.02" weight="1.0" />
+      <edge id="49" source="conductor.n.04" target="device.n.01" weight="1.0" />
+      <edge id="50" source="sense_organ.n.01" target="organ.n.01" weight="1.0" />
+      <edge id="51" source="process.n.06" target="physical_entity.n.01" weight="1.0" />
+      <edge id="52" source="whole.n.02" target="object.n.01" weight="1.0" />
+      <edge id="53" source="whole.n.02" target="natural_object.n.01" weight="1.0" />
+      <edge id="54" source="whole.n.02" target="artifact.n.01" weight="1.0" />
+      <edge id="55" source="whole.n.02" target="living_thing.n.01" weight="1.0" />
+      <edge id="56" source="object.n.01" target="physical_entity.n.01" weight="1.0" />
+      <edge id="57" source="wave.n.06" target="hairdo.n.01" weight="1.0" />
+      <edge id="58" source="hair.n.01" target="hairdo.n.01" weight="1.0" />
+      <edge id="59" source="hair.n.01" target="body_covering.n.01" weight="1.0" />
+      <edge id="60" source="entity.n.01" target="physical_entity.n.01" weight="1.0" />
+      <edge id="61" source="event.n.01" target="act.n.02" weight="1.0" />
+      <edge id="62" source="event.n.01" target="psychological_feature.n.01" weight="1.0" />
+      <edge id="63" source="electrical_phenomenon.n.01" target="voltage.n.01" weight="1.0" />
+      <edge id="64" source="natural_object.n.01" target="covering.n.01" weight="1.0" />
+      <edge id="65" source="communication.n.01" target="channel.n.05" weight="1.0" />
+      <edge id="66" source="communication.n.01" target="transmission.n.02" weight="1.0" />
+      <edge id="67" source="communication.n.01" target="act.n.02" weight="1.0" />
+      <edge id="68" source="breakdown.n.03" target="fault.n.05" weight="1.0" />
+      <edge id="69" source="act.n.02" target="action.n.01" weight="1.0" />
+      <edge id="70" source="gear.n.03" target="transmission.n.05" weight="1.0" />
+      <edge id="71" source="gear.n.03" target="mechanism.n.05" weight="1.0" />
+      <edge id="72" source="living_thing.n.01" target="organism.n.01" weight="1.0" />
+      <edge id="73" source="detector.n.01" target="device.n.01" weight="1.0" />
+      <edge id="74" source="person.n.01" target="adult.n.01" weight="1.0" />
+      <edge id="75" source="person.n.01" target="organism.n.01" weight="1.0" />
+      <edge id="76" source="person.n.01" target="causal_agent.n.01" weight="1.0" />
+      <edge id="77" source="incident.n.01" target="infection.n.04" weight="1.0" />
+      <edge id="78" source="body_covering.n.01" target="covering.n.01" weight="1.0" />
+      <edge id="79" source="line.n.04" target="curve.n.01" weight="1.0" />
+      <edge id="80" source="instrumentality.n.03" target="artifact.n.01" weight="1.0" />
+      <edge id="81" source="instrumentality.n.03" target="device.n.01" weight="1.0" />
+      <edge id="82" source="change.n.03" target="action.n.01" weight="1.0" />
+      <edge id="83" source="change.n.03" target="motion.n.06" weight="1.0" />
+      <edge id="84" source="wave.n.03" target="oscillation.n.02" weight="1.0" />
+      <edge id="85" source="adult.n.01" target="woman.n.01" weight="1.0" />
+      <edge id="86" source="state.n.02" target="attribute.n.02" weight="1.0" />
+      <edge id="87" source="physical_entity.n.01" target="causal_agent.n.01" weight="1.0" />
+      <edge id="88" source="mechanism.n.05" target="device.n.01" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
